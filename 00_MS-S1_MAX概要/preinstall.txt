@@ -1,0 +1,93 @@
+   -                                                                                                                            -                                                                                                                         Name                                     Id                                       Version             Available  Source
+-----------------------------------------------------------------------------------------------------------------------
+AMD Software                             AMD Catalyst Install Manager             24.20.79.01                    
+AMD Chipset Software                     AMD_Chipset_IODrivers                    7.06.02.123                    
+AMD Radeon Software                      AdvancedMicroDevicesInc-2.AMDRadeonSoft… 10.24.20021.0                  
+Microsoft Clipchamp                      Clipchamp.Clipchamp_yxz26nhyzhsrt        3.0.10220.0                    
+Microsoft Teams                          Microsoft.Teams                          25306.804.4102.7193            winget
+Microsoft Edge                           Microsoft.Edge                           143.0.3650.96                  winget
+AV1 Video Extension                      Microsoft.AV1VideoExtension_8wekyb3d8bb… 1.2.1293.0                     
+AVC Encoder Video Extension              Microsoft.AVCEncoderVideoExtension_8wek… 1.0.661.0                      
+Windows アプリケーションの互換性拡張     Microsoft.ApplicationCompatibilityEnhan… 1.2401.10.0                    
+Microsoft ニュース                       Microsoft.BingNews_8wekyb3d8bbwe         1.0.2.0                        
+Microsoft Bing                           Microsoft.BingSearch_8wekyb3d8bbwe       1.1.37.0                       
+MSN 天気                                 Microsoft.BingWeather_8wekyb3d8bbwe      3.2.9.0                        
+App Installer                            Microsoft.AppInstaller                   1.21.10120.0        1.27.350.0 winget
+Xbox                                     Microsoft.GamingApp_8wekyb3d8bbwe        2402.900.28.0                  
+問い合わせ                               Microsoft.GetHelp_8wekyb3d8bbwe          10.2407.22193.0                
+HEIF Image Extensions                    Microsoft.HEIFImageExtension_8wekyb3d8b… 1.1.861.0                      
+デバイス製造元からの HEVC ビデオ拡張機能 Microsoft.HEVCVideoExtension_8wekyb3d8b… 2.0.61931.0                    
+MPEG-2 ビデオ拡張機能                    Microsoft.MPEG2VideoExtension_8wekyb3d8… 1.0.61931.0                    
+Windows オペレーター メッセージ          Microsoft.Messaging_8wekyb3d8bbwe        5.1901.60431.0                 
+Microsoft Edge                           Microsoft.MicrosoftEdge.Stable_8wekyb3d… 143.0.3650.96                  
+Microsoft ジャーナル                     Microsoft.MicrosoftJournal_8wekyb3d8bbwe 1.23355.1356.0                 
+Microsoft 365 (Office)                   Microsoft.MicrosoftOfficeHub_8wekyb3d8b… 18.2308.1034.0                 
+PC Manager                               Microsoft.MicrosoftPCManager_8wekyb3d8b… 3.3.15.0                       
+Solitaire & Casual Games                 Microsoft.MicrosoftSolitaireCollection_… 4.19.3190.0                    
+Microsoft 付箋                           Microsoft.MicrosoftStickyNotes_8wekyb3d… 4.0.4602.0                     
+Microsoft .Net Native Framework Package… Microsoft.NET.Native.Framework.2.2_8wek… 2.2.29512.0                    
+Microsoft .Net Native Runtime Package 2… Microsoft.NET.Native.Runtime.2.2_8wekyb… 2.2.28604.0                    
+モバイル通信プラン                       Microsoft.OneConnect_8wekyb3d8bbwe       5.2308.2294.0                  
+Outlook for Windows                      Microsoft.OutlookForWindows_8wekyb3d8bb… 1.2024.119.200                 
+ペイント                                 Microsoft.Paint_8wekyb3d8bbwe            11.2510.311.0                  
+Power Automate                           Microsoft.PowerAutomateDesktop_8wekyb3d… 1.0.1080.0                     
+Raw Image Extension                      Microsoft.RawImageExtension_8wekyb3d8bb… 2.3.1221.0                     
+Snipping Tool                            Microsoft.ScreenSketch_8wekyb3d8bbwe     11.2510.31.0                   
+Windows セキュリティ                     Microsoft.SecHealthUI_8wekyb3d8bbwe      1000.29429.1000.0              
+Start エクスペリエンス アプリ            Microsoft.StartExperiencesApp_8wekyb3d8… 1.151.0.0                      
+Microsoft Store エクスペリエンス ホスト  Microsoft.StorePurchaseApp_8wekyb3d8bbwe 22312.1400.6.0                 
+Microsoft To Do                          Microsoft.Todos_8wekyb3d8bbwe            0.104.62421.0                  
+Microsoft.UI.Xaml.2.8                    Microsoft.UI.Xaml.2.8                    8.2501.31001.0                 winget
+Microsoft Visual C++ 2015 UWP Desktop R… Microsoft.VCLibs.Desktop.14              14.0.33728.0                   winget
+Microsoft Visual C++ 2015 UWP Runtime P… Microsoft.VCLibs.140.00_8wekyb3d8bbwe    14.0.33519.0                   
+VP9 Video Extensions                     Microsoft.VP9VideoExtensions_8wekyb3d8b… 1.1.451.0                      
+Web メディア拡張機能                     Microsoft.WebMediaExtensions_8wekyb3d8b… 1.1.1295.0                     
+Webp Image Extensions                    Microsoft.WebpImageExtension_8wekyb3d8b… 1.1.1711.0                     
+Microsoft Whiteboard                     Microsoft.Whiteboard_8wekyb3d8bbwe       53.20111.128.0                 
+Widgets Platform Runtime                 Microsoft.WidgetsPlatformRuntime_8wekyb… 1.6.2.0                        
+Dev Home                                 Microsoft.Windows.DevHome_8wekyb3d8bbwe  0.300.221.0                    
+Microsoft フォト                         Microsoft.Windows.Photos_8wekyb3d8bbwe   2025.11120.5001.0              
+Windows クロック                         Microsoft.WindowsAlarms_8wekyb3d8bbwe    1.0.188.0                      
+WindowsAppRuntime.1.3                    Microsoft.WindowsAppRuntime.1.3_8wekyb3… 3000.934.1904.0                
+WindowsAppRuntime.1.5                    Microsoft.WindowsAppRuntime.1.5_8wekyb3… 5001.373.1736.0                
+WindowsAppRuntime.1.6                    Microsoft.WindowsAppRuntime.1.6_8wekyb3… 6000.519.329.0                 
+WindowsAppRuntime.1.7                    Microsoft.WindowsAppRuntime.1.7_8wekyb3… 7000.676.1651.0                
+WindowsAppRuntime.1.8                    Microsoft.WindowsAppRuntime.1.8_8wekyb3… 8000.675.1142.0                
+Windows 電卓                             Microsoft.WindowsCalculator_8wekyb3d8bb… 11.2311.0.0                    
+Windows カメラ                           Microsoft.WindowsCamera_8wekyb3d8bbwe    2023.2312.3.0                  
+フィードバック Hub                       Microsoft.WindowsFeedbackHub_8wekyb3d8b… 1.2401.20253.0                 
+Windows メモ帳                           Microsoft.WindowsNotepad_8wekyb3d8bbwe   11.2312.18.0                   
+Windows サウンド レコーダー              Microsoft.WindowsSoundRecorder_8wekyb3d… 1.0.76.0                       
+Microsoft Store                          Microsoft.WindowsStore_8wekyb3d8bbwe     22511.1401.5.0                 
+Windows ターミナル                       Microsoft.WindowsTerminal                1.18.10301.0        1.23.1281… winget
+Windows Package Manager Source (winget)  Microsoft.Winget.Source_8wekyb3d8bbwe    2025.1226.520.10               
+Xbox TCUI                                Microsoft.Xbox.TCUI_8wekyb3d8bbwe        1.23.28005.0                   
+Game Bar                                 Microsoft.XboxGamingOverlay_8wekyb3d8bb… 2.624.1111.0                   
+Xbox Identity Provider                   Microsoft.XboxIdentityProvider_8wekyb3d… 12.110.15002.0                 
+Game Speech Window                       Microsoft.XboxSpeechToTextOverlay_8weky… 1.97.17002.0                   
+Phone Link                               Microsoft.YourPhone_8wekyb3d8bbwe        0.24012.105.0                  
+Windows メディア プレーヤー              Microsoft.ZuneMusic_8wekyb3d8bbwe        11.2312.8.0                    
+Microsoft Family                         MicrosoftCorporationII.MicrosoftFamily_… 0.1.28.0                       
+クイック アシスト                        MicrosoftCorporationII.QuickAssist_8wek… 2.0.29.0                       
+Windows Web Experience Pack              MicrosoftWindows.Client.WebExperience_c… 525.31002.150.0                
+クロス デバイス エクスペリエンス ホスト  MicrosoftWindows.CrossDevice_cw5n1h2txy… 0.23101.22.0                   
+Microsoft OneDrive                       Microsoft.OneDrive                       25.222.1112.0002               winget
+Realtek Audio Control                    RealtekSemiconductorCorp.RealtekAudioCo… 1.52.363.0                     
+UUP                                      WindowsWorkload.Data.Analysis.Stx.1_8we… 1.2511.1196.0                  
+UUP                                      WindowsWorkload.Data.ContentExtraction.… 1.2511.1196.0                  
+UUP                                      WindowsWorkload.Data.ImageSearch.Stx.1_… 1.2511.1196.0                  
+UUP                                      WindowsWorkload.Data.SettingsModel.Stx.… 1.2511.1196.0                  
+NonCompliant Image Search Session        WindowsWorkload.ImageSearch.Stx.2_8weky… 1.2511.1196.0                  
+NonCompliant Image Text Search Session   WindowsWorkload.ImageTextSearch.Stx.2_8… 1.2511.1196.0                  
+WindowsWorkload.Manager                  WindowsWorkload.Manager.1_8wekyb3d8bbwe  1.2511.1196.0                  
+PSOnnxRuntime                            WindowsWorkload.PSOnnxRuntime.Stx.3.5_8… 1.2508.888.0                   
+PSOnnxRuntime                            WindowsWorkload.PSOnnxRuntime.Stx.4.1_8… 1.2511.1196.0                  
+PSTokenizer                              WindowsWorkload.PSTokenizer.Stx.2.7_8we… 1.2511.1196.0                  
+PSTokenizerShared                        WindowsWorkload.PSTokenizerShared.Data.… 1.2508.888.0                   
+PSTokenizerShared                        WindowsWorkload.PSTokenizerShared.Data.… 1.2511.1196.0                  
+PSTokenizerShared                        WindowsWorkload.PSTokenizerShared.Stx.3… 1.2508.888.0                   
+PSTokenizerShared                        WindowsWorkload.PSTokenizerShared.Stx.4… 1.2511.1196.0                  
+SessionManager                           WindowsWorkload.SessionManager.1_8wekyb… 1.2511.1196.0                  
+Windows Driver Testing Framework (WDTF)… {213DC4DC-931F-E7FB-A7B2-78D28AFA6F6A}   10.1.22000.1                   
+Microsoft Visual C++ 2015-2022 Redistri… Microsoft.VCRedist.2015+.x86             14.38.33135.0       14.50.357… winget
+Microsoft Visual C++ 2015-2022 Redistri… Microsoft.VCRedist.2015+.x64             14.38.33135.0       14.50.357… winget

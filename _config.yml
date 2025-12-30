@@ -1,0 +1,9 @@
+# サイト全体の基本情報
+title: "Minisforum MS-S1 MAXベンチマーク"
+description: "株式会社リッカによるMS-S1 MAXのベンチマーク・活用記事です"
+
+plugins:
+  - jekyll-toc         
+  - jekyll-remote-theme
+
+remote_theme: pages-themes/dinky@v0.2.0
