@@ -55,6 +55,18 @@ FurMarkではOpenGLとVulkanの2種類のエンジンでベンチマークがで
 
 ### GeekBench
 
+メモリやVRAMを酷使するベンチではないため、ビデオメモリ量によるスコアの差はほとんどありません。
+
+CPUのスコアは [Processor Benchmarks - Geekbench](https://browser.geekbench.com/processor-benchmarks/) で比較できます。
+
+GPUのスコアは公式サイトに一覧表がないため比較がしづらくなっています。ざっと調べてみるとGeforce RTX2060 Superと同等程度のスコアといったところでしょうか。
+
+|項目|2GB|16GB|
+|--:|---|---|
+|CPU|![シングル2956、マルチ19955](2GB/geekbench_cpu.jpeg)|![シングル2949、マルチ19745](16GB/geekbench_cpu.jpeg)|
+|Vulkan|![86923](2GB/geekbench_vulkan.jpeg)|![88506](16GB/geekbench_vulkan.jpeg)|
+|OpenCL|![98740](2GB/geekbench_opencl.jpeg)|![95946](16GB/geekbench_opencl.jpeg)|
+
 ### ゲームベンチマーク
 
 比較的新しいゲームから「黒神話・悟空」のベンチマークを実行します。4Kでも平均60fpsをマークしていますが、実際のプレイにおいてはさらに高い負荷が予想されます。ゲームをプレイするうえではFullHDがよいでしょう。
